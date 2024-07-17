@@ -1,0 +1,5 @@
+Create the environment - python3 -m venv env
+Activate the environment - source env/bin/activate
+Install the depedencies - pip install fastapi sqlalchemy psycopg2-binary
+
+Open the browser - http://127.0.0.1:8000/docs
